@@ -1,1 +1,1 @@
-# parallaxPractice
+# Parallax Practice
